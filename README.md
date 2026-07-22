@@ -6,7 +6,7 @@ This repository accompanies the conceptual paper **Third-Space Extension: Cognit
 
 ## Purpose
 
-The toolkit translates the paper’s philosophical model into reusable research materials that can support qualitative analysis, interaction studies, annotation, protocol design, and future empirical work.
+The toolkit translates the paper’s philosophical model into reusable research materials that can support qualitative analysis, interaction studies, annotation, protocol design, instrument development, and future empirical work.
 
 It is designed to help researchers examine when human–AI interaction may move beyond ordinary assistance or cognitive offloading toward recursive co-structuring of thought.
 
@@ -39,16 +39,46 @@ The schema provides:
 - an annotation record template
 - explicit interpretive limits and current validation gaps
 
+### Loop Health Conceptual Index
+
+- [Loop Health Conceptual Index v0.1](loop-health-index/Loop_Health_Conceptual_Index_v0.1.md)
+
+The index proposes dimensional ratings for:
+
+- goal continuity
+- conceptual-thread preservation
+- transformative contribution
+- human evaluative control
+- drift burden
+- correction responsiveness
+- recursive reintegration
+- agentic sovereignty
+
+It is intended to be interpreted as a dimensional profile rather than a validated composite score.
+
+### Research Agenda
+
+- [Toward an Empirical Research Program for Third-Space Extension v0.1](research-agenda/Toward_an_Empirical_Research_Program_for_Third-Space_Extension_v0.1.md)
+
+The agenda outlines 32 candidate studies across:
+
+- foundational validation and reliability
+- writing, programming, design, research, education, and policy domains
+- radical candor, induced drift, thread load, and reintegration mechanisms
+- longitudinal benefits, dependency risks, and solitary-capacity retention
+- phenomenological and neurophysiological methods
+- interface design, memory architecture, and multi-agent orchestration
+- falsification and boundary testing
+
 ## Planned Components
 
-- **Loop Health Conceptual Index** — proposed dimensions for assessing goal continuity, drift, correction, reintegration, and human evaluative control
-- **Research Agenda** — candidate studies for empirically testing and extending the framework
 - **Illustrative Examples** — selected and anonymized interaction excerpts labeled as conceptual illustrations rather than evidence
 - **Figures** — high-resolution conceptual diagrams and model summaries
+- **Citation and licensing files** — repository-level metadata for archival release
 
 ## Conceptual Status
 
-This repository presents a conceptual research toolkit. The protocol and annotation schema are not yet empirically validated and should not be treated as clinical, psychometric, or diagnostic tools.
+This repository presents a conceptual research toolkit. The protocol, annotation schema, and proposed index are not yet empirically validated and should not be treated as clinical, psychometric, or diagnostic tools.
 
 The materials are intended for:
 
