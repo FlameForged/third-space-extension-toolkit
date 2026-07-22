@@ -26,9 +26,21 @@ The protocol includes:
 - a session documentation template
 - a minimal loop-health check
 
+### Interaction Annotation Schema
+
+- [Interaction Annotation Schema v0.1](annotation-schema/Interaction_Annotation_Schema_v0.1.md)
+
+The schema provides:
+
+- codes for externalization, amplification, restructuring, and reintegration
+- labels for drift, hallucination, correction, boundary assertion, and loop collapse
+- candidate redistribution indicators
+- provisional loop-health dimensions
+- an annotation record template
+- explicit interpretive limits and current validation gaps
+
 ## Planned Components
 
-- **Interaction Annotation Schema** — event labels for coding human–AI transcripts
 - **Loop Health Conceptual Index** — proposed dimensions for assessing goal continuity, drift, correction, reintegration, and human evaluative control
 - **Research Agenda** — candidate studies for empirically testing and extending the framework
 - **Illustrative Examples** — selected and anonymized interaction excerpts labeled as conceptual illustrations rather than evidence
@@ -36,7 +48,7 @@ The protocol includes:
 
 ## Conceptual Status
 
-This repository presents a conceptual research toolkit. The protocol and future instruments are not yet empirically validated and should not be treated as clinical, psychometric, or diagnostic tools.
+This repository presents a conceptual research toolkit. The protocol and annotation schema are not yet empirically validated and should not be treated as clinical, psychometric, or diagnostic tools.
 
 The materials are intended for:
 
