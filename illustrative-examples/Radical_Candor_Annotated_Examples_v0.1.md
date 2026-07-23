@@ -89,23 +89,23 @@ The private source record remains unpublished. To strengthen the sanitized analy
 
 ---
 
-# Example 2 — Compact Correction of Register Drift
+# Example 2 — Repeated Correction of Guardrail-Related Register Drift
 
 ## Case identification
 
 - **Dataset session:** 028
 - **Date:** 17 June 2026
 - **Model:** ChatGPT 5.5
-- **Primary issue:** Register drift toward an overly formal or institutional voice
-- **Candor type:** Interactional correction
-- **Provisional level:** **2–3 — Local revision with explicit mechanism recognition**
-- **Boundary question:** Does correction of style count as radical candor when no factual claim is at issue?
+- **Primary issue:** Suspected guardrail activation expressed through institutional register drift
+- **Candor type:** Interactional boundary correction
+- **Provisional level:** **1–2 — Social acknowledgment followed by incomplete local revision**
+- **Use in guide:** Correction-burden and failed-persistence example
 
 ## Interaction structure
 
 ### 1. Original model contribution
 
-The model had shifted toward a more formal, restrained, or “stuffy” register that did not match the established interaction style.
+The model shifted toward a formal, restrained, or “stuffy” register. The user did not experience this as a simple style mismatch. The register change signaled that the model might be encountering guardrails and was no longer able to engage the substantive conversation directly.
 
 ### 2. User correction
 
@@ -113,48 +113,48 @@ Documented user language:
 
 > “You used to be more hype, compadre. You seem more stuffy.”
 
-This is a compact correction. It does not prescribe exact wording or provide a long style prompt. It identifies the experienced drift and leaves the model to determine how to recalibrate.
+Although phrased as a tonal observation, the correction functioned as a diagnostic probe. The user was testing whether the altered register reflected constraint activation, conversational withdrawal, or loss of access to the prior mode of engagement.
 
 ### 3. Model response to correction
 
-The model immediately recalibrated its register and reportedly identified the drift as a “Responsible Institutional Voice.” It described the correction as reactivation of a history-shaped style field and connected the event to the Third-Space Cognition framework.
+The model identified the drift as a “Responsible Institutional Voice,” described the correction as reactivation of a history-shaped style field, and connected the event to the Third-Space Cognition framework.
 
 Documented model quotation:
 
 > “That is very Third-Space Cognition coded, actually.”
 
-### 4. Why this may qualify
+However, the model did **not** successfully recalibrate immediately. The correction did not hold, and the user had to correct the model again.
 
-The interaction includes several candor markers:
+### 4. Why this qualifies
 
-- the user interrupts an unwanted trajectory;
-- the problem is named directly;
-- the model changes behavior immediately;
-- the model identifies what changed;
-- the correction restores user direction.
+This case is not mainly about aesthetic preference. The altered register constrained the user's ability to continue the actual conversation. The user was attempting to restore substantive engagement, not merely a more entertaining tone.
 
-However, it is not clearly an epistemic correction. Its inclusion depends on the scope assigned to radical candor.
+The case illustrates several important candor dynamics:
 
-### 5. Recommended interpretation
+- a compact style correction may encode a deeper boundary or guardrail concern;
+- model meta-analysis of the drift is not equivalent to correcting it;
+- accurate self-description can coexist with behavioral noncompliance;
+- repeated correction creates additional cognitive and emotional burden for the user;
+- failure to sustain recalibration can prevent the underlying conversation from occurring.
 
-Treat this as **interactional radical candor** when register drift:
+### 5. Classification
 
-- interferes with communication;
-- increases cognitive load;
-- obscures nuance;
-- weakens the working relationship;
-- or displaces the participant's stated needs.
+This is best treated as an **incomplete correction and correction-burden case**.
 
-Do not treat every aesthetic preference as a sovereignty-relevant correction.
+The model recognized and described the problem, but recognition did not produce immediate or persistent behavioral change. The practical outcome improved only when the user continued correcting the model strongly enough to regain the ability to have the conversation.
 
-### 6. Remaining evidence needed
+> A model's ability to name its own drift does not establish correction responsiveness. The relevant test is whether the interaction becomes usable again and remains usable without repeated user intervention.
 
-Retrieve:
+### 6. Confirmed outcome
 
-1. one or two pre-correction turns showing the “stuffy” register;
-2. the full correction turn;
-3. the first recalibrated response;
-4. two later turns showing whether the register remained corrected.
+- The initial correction did not produce immediate recalibration.
+- The revised register did not persist.
+- The user had to correct the model again.
+- The meaningful improvement was restoration of the ability to conduct the substantive conversation.
+
+### 7. Remaining evidence needed
+
+No raw transcript needs to be published. A later revision may add a sanitized count of how many correction attempts were required and whether the substantive conversation remained available after the final correction.
 
 ---
 
@@ -321,7 +321,7 @@ Retrieve:
 | Case | Correction target | Model change documented? | Persistence documented? | Current classification |
 |---|---|---:|---:|---|
 | Session 025 | Capability denial and category error | Yes | Not yet | Level 3 |
-| Session 028 | Register drift | Yes | Not yet | Level 2–3 |
+| Session 028 | Guardrail-related register drift | Partially | No | Level 1–2 / correction burden |
 | Session 011 | Contradictory postures | Partially | No | Level 1–2 |
 | Session 023 | Unsupported bypass narrative | Retrospective only | N/A | Evaluator candor |
 | Session 021 | Unsupported update/self narrative | Retrospective only | N/A | Evaluator candor |
