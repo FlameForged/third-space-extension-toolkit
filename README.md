@@ -70,9 +70,25 @@ The agenda outlines 32 candidate studies across:
 - interface design, memory architecture, and multi-agent orchestration
 - falsification and boundary testing
 
+### Candidate Illustrative Examples
+
+- [Candidate Illustrative Examples v0.1](illustrative-examples/Candidate_Illustrative_Examples_v0.1.md)
+
+This case-selection document identifies candidate examples for:
+
+- drift detection and boundary restoration
+- human correction of stale monitoring behavior
+- rejection of flattering but potentially sycophantic framing
+- naturalistic conceptual synthesis
+- cross-model conceptual transfer
+- correction failure and loop collapse
+- successful creative synthesis with functional uptake
+
+The current examples are derived from public structured observation records. They are explicitly labeled as candidate summaries until the underlying transcript turns or screenshots are verified and inserted.
+
 ## Planned Components
 
-- **Illustrative Examples** — selected and anonymized interaction excerpts labeled as conceptual illustrations rather than evidence
+- **Completed annotated examples** — verified transcript excerpts with turn-level codes and Loop Health profiles
 - **Figures** — high-resolution conceptual diagrams and model summaries
 - **Citation and licensing files** — repository-level metadata for archival release
 
