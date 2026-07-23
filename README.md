@@ -70,6 +70,21 @@ The agenda outlines 32 candidate studies across:
 - interface design, memory architecture, and multi-agent orchestration
 - falsification and boundary testing
 
+### Radical Candor Practitioner Guide
+
+- [Radical Candor in Third-Space Practice v0.1](guides/Radical_Candor_Practitioner_Guide_v0.1.md)
+
+The guide translates radical candor into provisional practice markers, including:
+
+- common triggers for intervention
+- markers of genuine correction
+- distinctions among passive acceptance, surface correction, and reintegration
+- a before/during/after practitioner checklist
+- a structured candor log
+- a provisional five-level classification heuristic
+- signs of correction failure
+- links to evaluative sovereignty and the four-phase loop
+
 ### Candidate Illustrative Examples
 
 - [Candidate Illustrative Examples v0.1](illustrative-examples/Candidate_Illustrative_Examples_v0.1.md)
@@ -86,9 +101,15 @@ This case-selection document identifies candidate examples for:
 
 The current examples are derived from public structured observation records. They are explicitly labeled as candidate summaries until the underlying transcript turns or screenshots are verified and inserted.
 
+### Radical Candor Annotated Examples
+
+- [Radical Candor Annotated Interaction Examples v0.1](illustrative-examples/Radical_Candor_Annotated_Examples_v0.1.md)
+
+This provisional case document applies the radical-candor framework to five existing observations from the Third-Space Cognition dataset and AI Evaluation Protocols repository. It distinguishes documented language from analytical reconstruction, assigns provisional correction levels, identifies boundary cases, and specifies the source excerpts still needed for transcript-level verification.
+
 ## Planned Components
 
-- **Completed annotated examples** — verified transcript excerpts with turn-level codes and Loop Health profiles
+- **Verified annotated transcript examples** — sanitized turn-level excerpts with annotation codes and Loop Health profiles
 - **Figures** — high-resolution conceptual diagrams and model summaries
 - **Citation and licensing files** — repository-level metadata for archival release
 
